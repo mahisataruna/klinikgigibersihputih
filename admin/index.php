@@ -51,7 +51,7 @@ include '../config/koneksi.php';
          <nav aria-label="breadcrumb" class="main-breadcrumb">
           <ol class="breadcrumb bg-white shadow mb-4">
             <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item active"><a href="index.php">Beranda</a></li>
+            <li class="breadcrumb-item active"><a href="index.php">Home</a></li>
           </ol>
         </nav>
         <!-- /Breadcrumb -->
